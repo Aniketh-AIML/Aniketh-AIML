@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student focused on Artificial Intelligence and Machine Learning, with a strong interest in building practical software and AI-driven solutions. Continuously learning through projects, problem-solving, and open-source contributions while working toward becoming a skilled AI/ML engineer.<br> LeetCode - https://leetcode.com/u/Aniketh2107/ <br>
+Computer Science student focused on Artificial Intelligence and Machine Learning, with a strong interest in building practical software and AI-driven solutions. Continuously learning through projects, problem-solving, and open-source contributions while working toward becoming a skilled AI/ML engineer.<br> LeetCode - https://leetcode.com/u/Aniketh2107/ 
 
 
 ## 🌐 Socials:
