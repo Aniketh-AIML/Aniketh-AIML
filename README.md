@@ -41,6 +41,7 @@ Computer Science student focused on Artificial Intelligence and Machine Learning
 
 [![Aniketh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketh-AIML&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+![Snake animation](https://raw.githubusercontent.com/Aniketh-AIML/Aniketh-AIML/output/github-contribution-grid-snake-dark.svg)
 <br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketh-AIML&theme=github_dark&hide_border=true&layout=compact)
