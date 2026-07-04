@@ -21,18 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-
-      - name: push
-        run: |
-          mkdir -p dist
-          cp -r dist/* dist/ 2>/dev/null || true
-          git add -A
-          git commit -m "generate snake" -a || true
-
-      - uses: actions/checkout@v4
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
