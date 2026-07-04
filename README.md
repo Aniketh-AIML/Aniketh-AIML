@@ -1,15 +1,135 @@
-# 💫 About Me:
-Computer Science student focused on Artificial Intelligence and Machine Learning, with a strong interest in building practical software and AI-driven solutions. Continuously learning through projects, problem-solving, and open-source contributions while working toward becoming a skilled AI/ML engineer.
+<h1 align="center">Hi 👋, I'm Aniketh</h1>
 
+<h3 align="center">
+Computer Science Student • AI & Machine Learning Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketh-bogudamedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketh2107@gmail.com) 
+<p align="center">
+Building AI-powered applications, learning every day, and contributing to open source.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aniketh-AIML&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aniketh-AIML&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketh-AIML&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🎓 Computer Science Student specializing in **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Deep Learning, PyTorch, LLMs, MLOps**
+- 💻 Solving problems on **LeetCode** and **HackerRank**
+- 🤝 Looking to contribute to Open Source
+- 🎯 Goal: Become an AI Engineer at a top tech company
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 AI Web Scraper
+> AI-powered intelligent web scraper using LLMs.
+
+### 📄 AI Resume Analyzer
+> Resume analysis using NLP and Machine Learning.
+
+### 💬 AI Chatbot
+> Conversational chatbot powered by Large Language Models.
+
+### 📈 Stock Price Predictor
+> Deep Learning model for stock forecasting.
+
+### 🧠 Face Recognition System
+> Computer Vision project using OpenCV.
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Aniketh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketh-AIML&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aniketh-AIML/Aniketh-AIML/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aniketh-AIML&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketh-AIML&layout=compact&theme=github_dark)
+
+---
+
+# 📚 Currently Learning
+
+- Deep Learning
+- PyTorch
+- Transformers
+- Large Language Models
+- MLOps
+- Kubernetes
+- Docker
+- LangChain
+
+---
+
+# 🏅 Achievements
+
+🏆 HackerRank
+
+⭐ Python (4★)
+
+⭐ Problem Solving (2★)
+
+🏅 Google Cloud Skill Badges
+
+🏅 LeetCode Contests
+
+🏅 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniketh-bogudamedi)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aniketh2107@gmail.com)
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
