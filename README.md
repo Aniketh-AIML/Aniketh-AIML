@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aniketh;Aspiring+AI%2FML+Engineer;CS+Student+%7C+3rd+Year;Building+with+Python+%26+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aniketh;Computer+Science+%7C+AI%2FML;Teaching+machines+to+think;Turning+caffeine+into+neural+networks" alt="Typing SVG" />
 </p>
 Computer Science student focused on Artificial Intelligence and Machine Learning, with a strong interest in building practical software and AI-driven solutions. Continuously learning through projects, problem-solving, and open-source contributions while working toward becoming a skilled AI/ML engineer.
 
